@@ -1,0 +1,50 @@
+{
+  "storyName": "Creamy Cherry Cava",
+  "difficulties": "hard",
+  "hideFreeplay": false,
+  "weekBackground": "kris week",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "weekBefore": "tutorial",
+  "startUnlocked": true,
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "songs": [
+    [
+      "Krismile",
+      "ccc_kris",
+      [
+        166,
+        36,
+        88
+      ]
+    ],
+    [
+      "Nougat",
+      "ccc_kris",
+      [
+        166,
+        36,
+        88
+      ]
+    ],
+    [
+      "Serendi",
+      "ccc_kris",
+      [
+        166,
+        36,
+        88
+      ]
+    ]
+  ],
+  "hideStoryMode": false,
+  "weekName": "kris week",
+  "hiddenUntilUnlocked": false
+}
