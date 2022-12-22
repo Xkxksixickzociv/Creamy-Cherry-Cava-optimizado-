@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				10
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				32,
+				2
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-9,
+				2
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-9,
+				1
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-5,
+				28
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "singUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ccc_danke",
+	"position": [
+		-210,
+		70
+	],
+	"healthicon": "ccc_danke",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		93,
+		145
+	],
+	"camera_position": [
+		-50,
+		120
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1.8
+}

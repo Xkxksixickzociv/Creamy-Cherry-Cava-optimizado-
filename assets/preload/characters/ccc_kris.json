@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				10
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				21,
+				14
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				12,
+				3
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-12,
+				10
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-43,
+				47
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "singUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ccc_kris",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "ccc_kris",
+	"flip_x": true,
+	"healthbar_colors": [
+		166,
+		36,
+		88
+	],
+	"camera_position": [
+		-50,
+		120
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1.8
+}
