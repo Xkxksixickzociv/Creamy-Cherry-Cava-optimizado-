@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CCC_Danke.png">
+<SubTexture name="singDOWN0000" x="314" y="1222" width="318" height="383" frameX="-9" frameY="-29" frameWidth="330" frameHeight="415" />
+<SubTexture name="singDOWN0001" x="1509" y="790" width="311" height="392" frameX="-5" frameY="-21" frameWidth="330" frameHeight="415" />
+<SubTexture name="singDOWN0002" x="891" y="0" width="302" height="401" frameX="-6" frameY="-12" frameWidth="330" frameHeight="415" />
+<SubTexture name="idle0000" x="0" y="1222" width="314" height="390" frameX="-8" frameY="-28" frameWidth="325" frameHeight="420" />
+<SubTexture name="idle0001" x="1509" y="397" width="312" height="393" frameX="-8" frameY="-25" frameWidth="325" frameHeight="420" />
+<SubTexture name="idle0002" x="640" y="823" width="311" height="398" frameX="-6" frameY="-19" frameWidth="325" frameHeight="420" />
+<SubTexture name="idle0003" x="302" y="419" width="303" height="402" frameX="-8" frameY="-15" frameWidth="325" frameHeight="420" />
+<SubTexture name="idle0004" x="0" y="419" width="302" height="404" frameX="-9" frameY="-14" frameWidth="325" frameHeight="420" />
+<SubTexture name="singLEFT0000" x="0" y="823" width="327" height="399" frameX="-16" frameY="-13" frameWidth="345" frameHeight="415" />
+<SubTexture name="singLEFT0001" x="1193" y="0" width="316" height="400" frameX="-20" frameY="-13" frameWidth="345" frameHeight="415" />
+<SubTexture name="singLEFT0002" x="1193" y="400" width="307" height="399" frameX="-25" frameY="-14" frameWidth="345" frameHeight="415" />
+<SubTexture name="singRIGHT0000" x="1509" y="0" width="314" height="397" frameX="-9" frameY="-16" frameWidth="325" frameHeight="415" />
+<SubTexture name="singRIGHT0001" x="951" y="823" width="311" height="398" frameX="-8" frameY="-15" frameWidth="325" frameHeight="415" />
+<SubTexture name="singRIGHT0002" x="327" y="823" width="313" height="399" frameX="-7" frameY="-13" frameWidth="325" frameHeight="415" />
+<SubTexture name="singUP0000" x="0" y="0" width="294" height="419" frameX="-16" frameY="-8" frameWidth="315" frameHeight="430" />
+<SubTexture name="singUP0001" x="294" y="0" width="295" height="416" frameX="-15" frameY="-11" frameWidth="315" frameHeight="430" />
+<SubTexture name="singUP0002" x="589" y="0" width="302" height="410" frameX="-9" frameY="-17" frameWidth="315" frameHeight="430" />
+</TextureAtlas>
